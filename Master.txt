@@ -6,3 +6,7 @@
 /js/plugins.js https://raw.githubusercontent.com/oktobrproductions/UpdaterForProject/master/plugins.js
 /img/system/OKTOBR.png https://cdn-35.anonfiles.com/d878h04boa/3cbbdb51-1590962924/OKTOBR.png
 <End of Version>
+
+<Version: 1.03>
+/js/plugins.js https://raw.githubusercontent.com/oktobrproductions/UpdaterForProject/master/plugins.js
+<End of Version>
