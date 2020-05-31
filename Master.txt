@@ -1,7 +1,8 @@
 <Version: 1.02>
 /js/plugins.js https://raw.githubusercontent.com/oktobrproductions/UpdaterForProject/master/plugins.js
 <End of Version>
-
-<Version: 1.03>
+<Version : 1.03>
 /js/plugins.js https://raw.githubusercontent.com/oktobrproductions/UpdaterForProject/master/plugins.js
 <End of Version>
+
+
