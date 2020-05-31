@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 1.02>
-js/plugins.js https://github.com/oktobrproductions/UpdaterForProject/blob/master/plugins.js
+/js/plugins.js https://github.com/oktobrproductions/UpdaterForProject/blob/master/plugins.js
 <End of Version>
