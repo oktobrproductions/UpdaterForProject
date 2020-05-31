@@ -1,3 +1,4 @@
 <Version: 1.01>
-/plugins/plugins.js 
+/plugins/plugins.js https://github.com/oktobrproductions/UpdaterForProject/blob/master/plugins.js
+/img/system/COMPANYSPLASH.png https://file.io/nlj4Hzg9
 <End of Version>
